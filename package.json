@@ -1,0 +1,20 @@
+{
+  "name": "fear-and-greed",
+  "version": "0.0.0",
+  "description": "A simple scraper for the fear and greed index on CNN's website",
+  "homepage": "https://github.com/dylanoonk/fear-and-greed#readme",
+  "bugs": {
+    "url": "https://github.com/dylanoonk/fear-and-greed/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dylanoonk/fear-and-greed.git"
+  },
+  "license": "MIT",
+  "author": "Dylan Oonk",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
